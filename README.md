@@ -2,7 +2,7 @@
 
 ### Hi there, I'm king-peach
 
-This is my personal profile
+This is my profile
 
 **Languages:**  
 
