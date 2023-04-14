@@ -2,7 +2,7 @@
 
 ### Hi there, I'm king-peach
 
-This is my profile
+Have a Coke and make friends！
 
 **Languages:**  
 
