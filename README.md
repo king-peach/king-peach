@@ -1,6 +1,6 @@
 ![](https://github.com/king-peach/king-peach/blob/master/header_.png)
 
-### Hi there, I'm king-peach
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=EEC170&background=00000002&center=false%E5%81%87&vCenter=true%E7%9C%9F&repeat=true%E7%9C%9F&random=false%E5%81%87&width=435&lines=+++Hi+There!+;I'm+king-peach...;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 Have a Coke and make friends！
 
